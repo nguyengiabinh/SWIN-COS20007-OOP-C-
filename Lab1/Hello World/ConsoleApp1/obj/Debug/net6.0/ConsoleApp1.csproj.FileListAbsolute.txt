@@ -1,0 +1,14 @@
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab1\Hello World\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
