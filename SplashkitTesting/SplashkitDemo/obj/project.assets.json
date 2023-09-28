@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SplashkitTesting\\SplashkitDemo\\SplashkitDemo.csproj",
+      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\SplashkitTesting\\SplashkitDemo\\SplashkitDemo.csproj",
       "projectName": "SplashkitDemo",
-      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SplashkitTesting\\SplashkitDemo\\SplashkitDemo.csproj",
+      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\SplashkitTesting\\SplashkitDemo\\SplashkitDemo.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SplashkitTesting\\SplashkitDemo\\obj\\",
+      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\SplashkitTesting\\SplashkitDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

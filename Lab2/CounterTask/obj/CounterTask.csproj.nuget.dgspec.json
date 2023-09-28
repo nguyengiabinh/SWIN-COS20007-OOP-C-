@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\Lab2\\CounterTask\\CounterTask.csproj": {}
+    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab2\\CounterTask\\CounterTask.csproj": {}
   },
   "projects": {
-    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\Lab2\\CounterTask\\CounterTask.csproj": {
+    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab2\\CounterTask\\CounterTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\Lab2\\CounterTask\\CounterTask.csproj",
+        "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab2\\CounterTask\\CounterTask.csproj",
         "projectName": "CounterTask",
-        "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\Lab2\\CounterTask\\CounterTask.csproj",
+        "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab2\\CounterTask\\CounterTask.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\Lab2\\CounterTask\\obj\\",
+        "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab2\\CounterTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

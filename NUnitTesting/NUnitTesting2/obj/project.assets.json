@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting2\\NUnitTesting2.csproj",
+      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting2\\NUnitTesting2.csproj",
       "projectName": "NUnitTesting2",
-      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting2\\NUnitTesting2.csproj",
+      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting2\\NUnitTesting2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting2\\obj\\",
+      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1023,8 +1023,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj": {
-              "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj"
+            "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj": {
+              "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj",
+      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj",
       "projectName": "NUnitTesting",
-      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj",
+      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting\\NUnitTesting.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\NUnitTesting\\NUnitTesting\\obj\\",
+      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\NUnitTesting\\NUnitTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

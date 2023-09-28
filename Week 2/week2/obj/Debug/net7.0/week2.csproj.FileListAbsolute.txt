@@ -12,3 +12,17 @@ D:\SWIN-COS20007-OOP-C#\Week 2\week2\obj\Debug\net7.0\refint\week2.dll
 D:\SWIN-COS20007-OOP-C#\Week 2\week2\obj\Debug\net7.0\week2.pdb
 D:\SWIN-COS20007-OOP-C#\Week 2\week2\obj\Debug\net7.0\week2.genruntimeconfig.cache
 D:\SWIN-COS20007-OOP-C#\Week 2\week2\obj\Debug\net7.0\ref\week2.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\bin\Debug\net7.0\week2.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\bin\Debug\net7.0\week2.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\bin\Debug\net7.0\week2.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\bin\Debug\net7.0\week2.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\bin\Debug\net7.0\week2.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\refint\week2.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\week2.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Week 2\week2\obj\Debug\net7.0\ref\week2.dll

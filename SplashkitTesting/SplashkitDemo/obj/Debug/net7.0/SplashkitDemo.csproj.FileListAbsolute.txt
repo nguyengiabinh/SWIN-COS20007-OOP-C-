@@ -12,3 +12,17 @@ D:\SWINBURNE\SWIN COS20007 OOP C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.
 D:\SWINBURNE\SWIN COS20007 OOP C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.pdb
 D:\SWINBURNE\SWIN COS20007 OOP C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.genruntimeconfig.cache
 D:\SWINBURNE\SWIN COS20007 OOP C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\ref\SplashkitDemo.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\refint\SplashkitDemo.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\ref\SplashkitDemo.dll
