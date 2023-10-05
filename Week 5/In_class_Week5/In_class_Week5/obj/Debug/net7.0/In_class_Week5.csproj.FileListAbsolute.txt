@@ -1,0 +1,14 @@
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\bin\Debug\net7.0\In_class_Week5.exe
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\bin\Debug\net7.0\In_class_Week5.deps.json
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\bin\Debug\net7.0\In_class_Week5.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\bin\Debug\net7.0\In_class_Week5.dll
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\bin\Debug\net7.0\In_class_Week5.pdb
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.AssemblyInfoInputs.cache
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.AssemblyInfo.cs
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.csproj.CoreCompileInputs.cache
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.dll
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\refint\In_class_Week5.dll
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.pdb
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\In_class_Week5.genruntimeconfig.cache
+D:\SWIN-COS20007-OOP-C#\Week 5\In_class_Week5\In_class_Week5\obj\Debug\net7.0\ref\In_class_Week5.dll
