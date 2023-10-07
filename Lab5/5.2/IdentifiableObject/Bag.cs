@@ -31,7 +31,7 @@ namespace SwinAdventure
         {
             get
             {
-                return Name + " ,you have:\n" + _inventory.ItemList;
+                return $"In the {Name}:\n" + _inventory.ItemList;
             }
         }
         public Inventory Inventory
