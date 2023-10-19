@@ -16,7 +16,7 @@ namespace SwinAdventure
         }
         public override string Execute(Player p, string[] text)
         {
-            IHaveInventory _container;
+            IHaveInventory _container = null;
             string _itemID;
 
             if (text.Length != 3 && text.Length != 5)
@@ -47,11 +47,11 @@ namespace SwinAdventure
                     _container = FetchContainer(p, text[4]);
                     if (_container == null)
                     {
-                        return $"i can't find the {text[4]}";
+                        return $"I can't find the {text[4]}";
                     }
                     break;
-                default:
-                    return "Something wrong with the input length";
+                //default:
+                //    return "Something wrong with the input length";
             }
             _itemID = text[2];
             return LookAtIn(_itemID,  _container);

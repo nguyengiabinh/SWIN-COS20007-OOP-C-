@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj": {}
+    "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj": {}
   },
   "projects": {
-    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj": {
+    "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj",
+        "projectUniqueName": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj",
         "projectName": "IdentifiableObject",
-        "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableObject\\obj\\",
+        "projectPath": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableObject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +63,21 @@
         }
       }
     },
-    "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj": {
+    "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj",
+        "projectUniqueName": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj",
         "projectName": "IdentifiableTesting",
-        "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableTesting\\obj\\",
+        "projectPath": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableTesting\\IdentifiableTesting.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableTesting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj": {
-                "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj"
+              "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj": {
+                "projectPath": "D:\\SWIN-COS20007-OOP-C#\\Lab6\\6.1\\IdentifiableObject\\IdentifiableObject.csproj"
               }
             }
           }
