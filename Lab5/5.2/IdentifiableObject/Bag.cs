@@ -18,10 +18,12 @@ namespace SwinAdventure
             if (AreYou(id) == true)
             {
                 return this;
-            } else if(_inventory.ItemOwn(id)) 
+            } 
+            else if(_inventory.ItemOwn(id)) 
             {
                 return _inventory.Fetch(id);
-            } else
+            } 
+            else
             {
                 return null;
             }
