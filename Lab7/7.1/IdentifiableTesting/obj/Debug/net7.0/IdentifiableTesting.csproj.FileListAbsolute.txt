@@ -1,0 +1,525 @@
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\testhost.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\testhost.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.api.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.core.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\nunit.framework.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.AssemblyReference.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CopyComplete
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\refint\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableTesting\obj\Debug\net7.0\ref\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\testhost.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\testhost.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.api.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.core.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\nunit.framework.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.AssemblyReference.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CopyComplete
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\refint\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableTesting\obj\Debug\net7.0\ref\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\testhost.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\testhost.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.api.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.core.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\nunit.framework.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.AssemblyReference.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CopyComplete
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\refint\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableTesting\obj\Debug\net7.0\ref\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.AssemblyReference.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\refint\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\testhost.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\testhost.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.api.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.core.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.framework.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CopyComplete
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\ref\IdentifiableTesting.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\testhost.exe
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\testhost.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.api.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.engine.core.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.deps.json
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\nunit.framework.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.AssemblyReference.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfoInputs.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.AssemblyInfo.cs
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CoreCompileInputs.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.csproj.CopyComplete
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\refint\IdentifiableTesting.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.pdb
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\IdentifiableTesting.genruntimeconfig.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableTesting\obj\Debug\net7.0\ref\IdentifiableTesting.dll

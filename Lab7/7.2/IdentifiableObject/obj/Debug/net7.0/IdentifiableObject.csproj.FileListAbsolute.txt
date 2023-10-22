@@ -1,0 +1,98 @@
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\Lab2\2.3Main\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab4\4.2\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab5\5.2\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWIN-COS20007-OOP-C#\Lab6\6.1\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.1\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.exe
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.deps.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.runtimeconfig.json
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\bin\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfoInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.AssemblyInfo.cs
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\refint\IdentifiableObject.dll
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.pdb
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\IdentifiableObject.genruntimeconfig.cache
+D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Lab7\7.2\IdentifiableObject\obj\Debug\net7.0\ref\IdentifiableObject.dll
