@@ -8,7 +8,7 @@ namespace SwinAdventure
 {
     public class GameObject : IdentifiableObject
     {
-        private string _desc;
+        public string _desc;
         private string _name;
 
         public GameObject(string[] ids, string name, string desc) : base(ids)
@@ -37,7 +37,7 @@ namespace SwinAdventure
         {
             get
             {
-                return _name + ": " + FirstId.ToLower();
+                return _name + ": " + /*FirstId.ToLower()*/ Description;
             }
         }
     }

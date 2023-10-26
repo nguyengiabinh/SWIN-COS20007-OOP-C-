@@ -23,10 +23,9 @@ namespace SwinAdventure
             Item invisibility_cloak = new Item(new string[] { "cloak" }, "a cloak", "The invisibility cloak used by Harry Potter himself a long time ago");
             Bag spatial_ring = new Bag(new string[] {"ring" }, "spatial ring(common)", "A rusty spatial ring");
 
-            Item storm_breaker = new Item(new string[] { "axe" }, "Storm Breaker(Mythical)", "A weapon created for the god king, capable of challenging the infinity stones");
-            Item mjornir = new Item(new string[] { "hammer" }, "Mjornir(Epic)(Shattered)", "A weapon created for the god of thunder, capable of harnessing the thunder god power");
-            Item weaponry_desc = new Item(new string[] { "weaponry description" }, "Weaponry", "You are at the weaponry, weapons and various kinds of item are kept here ");
-            Location Weaponry = new Location("Weaponry", "You are at the weaponry, weapons and various kinds of item are kept here ");
+            Item storm_breaker = new Item(new string[] { "axe" }, "* Storm Breaker(Mythical)", "A weapon created for the god king, capable of challenging the infinity stones");
+            Item mjornir = new Item(new string[] { "hammer" }, "* Mjornir(Epic)(Shattered)", "A weapon created for the god of thunder, capable of harnessing the thunder god power");
+            Location Weaponry = new Location("Weaponry ", "- You are at the weaponry, weapons and various kinds of item are kept here ");
             
             p.Inventory.Put(gaunlet);
             p.Inventory.Put(invisibility_cloak);
@@ -35,7 +34,6 @@ namespace SwinAdventure
 
             p.Location = Weaponry;
             Weaponry.Inventory.Put(storm_breaker);
-            Weaponry.Inventory.Put(weaponry_desc);
             Weaponry.Inventory.Put(mjornir);
 
             string command_input;

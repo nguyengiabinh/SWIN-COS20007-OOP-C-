@@ -27,7 +27,7 @@ namespace SwinAdventure
         {
             get
             {
-                return Name + /*Description +*/ ":" + "\n" + _inventory.ItemList;
+                return Name + _desc + /*Description +*/ ":" + "\n" + _inventory.ItemList;
             }
         }
 

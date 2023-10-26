@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = IdentifiableObject
-build_property.ProjectDir = D:\SWIN-COS20007-OOP-C#\Lab7\7.2\IdentifiableObject\
+build_property.RootNamespace = Data_Analyzer
+build_property.ProjectDir = D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\
