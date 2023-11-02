@@ -11,8 +11,8 @@ namespace Monopoly
         public string name; 
         public int position = 0; 
         public int money = 2000;  
-        public bool jail = false; // jail = true = player in jail
-        public bool /*get_out_of_jail_card*/ jail_pass = false; // =true = player has jail_pass
+        public bool prison = false; // jail = true = player in jail
+        public bool /*get_out_of_jail_card*/ prison_pass = false; // =true = player has jail_pass
         public bool lose = false;
 
         public Player(string Name, int Position, int Money, bool Jail, bool NoJail, bool Loser)
@@ -20,8 +20,8 @@ namespace Monopoly
             name = Name;
             position = Position;
             money = Money;
-            jail = Jail;
-            jail_pass = NoJail;
+            prison = Jail;
+            prison_pass = NoJail;
             lose = Loser;
         }
 
@@ -58,26 +58,26 @@ namespace Monopoly
                 money = value; 
             } 
         }
-        public bool Jail 
+        public bool Prison
         { 
             get 
             { 
-                return jail; 
+                return prison; 
             } 
             set 
             { 
-                jail = value; 
+                prison = value; 
             } 
         }
         public bool GetOut 
         { 
             get 
             { 
-                return jail_pass; 
+                return prison_pass; 
             } 
             set 
             { 
-                jail_pass = value; 
+                prison_pass = value; 
             } 
         }
         public bool Lose 

@@ -8,8 +8,8 @@ namespace Monopoly
 {
     public class Property : Square
     {
-        public enum property_Type { Train_Station, Service, Street }
-        public enum Property_Status { Free, Bought, House, Hotel }
+        public enum property_Type { Mansion, Service, Special}
+        public enum Property_Status { Sale, Bought, Rent, NoNo }
 
         public string name;
         public int buying_cost; 
