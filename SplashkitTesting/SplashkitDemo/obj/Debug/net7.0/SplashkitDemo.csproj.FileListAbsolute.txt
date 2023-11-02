@@ -26,3 +26,17 @@ D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\Splashki
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.pdb
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.genruntimeconfig.cache
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\ref\SplashkitDemo.dll
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.exe
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.deps.json
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.dll
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\bin\Debug\net7.0\SplashkitDemo.pdb
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.AssemblyInfoInputs.cache
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.AssemblyInfo.cs
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.csproj.CoreCompileInputs.cache
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.dll
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\refint\SplashkitDemo.dll
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.pdb
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\SplashkitDemo.genruntimeconfig.cache
+D:\SWIN-COS20007-OOP-C#\SplashkitTesting\SplashkitDemo\obj\Debug\net7.0\ref\SplashkitDemo.dll

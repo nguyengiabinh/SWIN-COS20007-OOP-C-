@@ -12,3 +12,17 @@ D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SemmesterTest\SemesterTes
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.pdb
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.genruntimeconfig.cache
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\ref\Data_Analyzer.dll
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\bin\Debug\net7.0\Data_Analyzer.exe
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\bin\Debug\net7.0\Data_Analyzer.deps.json
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\bin\Debug\net7.0\Data_Analyzer.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\bin\Debug\net7.0\Data_Analyzer.dll
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\bin\Debug\net7.0\Data_Analyzer.pdb
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.AssemblyInfoInputs.cache
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.AssemblyInfo.cs
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.csproj.CoreCompileInputs.cache
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.dll
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\refint\Data_Analyzer.dll
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.pdb
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\Data_Analyzer.genruntimeconfig.cache
+D:\SWIN-COS20007-OOP-C#\SemmesterTest\SemesterTest Data_Analyzer\Data_Analyzer\Data_Analyzer\obj\Debug\net7.0\ref\Data_Analyzer.dll

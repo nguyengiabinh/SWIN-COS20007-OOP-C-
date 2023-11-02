@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\SemmesterTest\\SemesterTest Data_Analyzer\\Data_Analyzer\\Data_Analyzer\\Data_Analyzer.csproj",
+      "projectUniqueName": "D:\\SWIN-COS20007-OOP-C#\\SemmesterTest\\SemesterTest Data_Analyzer\\Data_Analyzer\\Data_Analyzer\\Data_Analyzer.csproj",
       "projectName": "Data_Analyzer",
-      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\SemmesterTest\\SemesterTest Data_Analyzer\\Data_Analyzer\\Data_Analyzer\\Data_Analyzer.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\SemmesterTest\\SemesterTest Data_Analyzer\\Data_Analyzer\\Data_Analyzer\\obj\\",
+      "projectPath": "D:\\SWIN-COS20007-OOP-C#\\SemmesterTest\\SemesterTest Data_Analyzer\\Data_Analyzer\\Data_Analyzer\\Data_Analyzer.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\SWIN-COS20007-OOP-C#\\SemmesterTest\\SemesterTest Data_Analyzer\\Data_Analyzer\\Data_Analyzer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
