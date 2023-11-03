@@ -103,7 +103,7 @@ namespace Monopoly
 
         public string property_desc()
         {
-            return "\nName: " + "\t" + name + "\nType: " + "\t" + type.ToString() + "\nBuying cost: $" + "\t" + buying_cost + "\nTaxes: $" + "\t" + fee + "\nStatus: " + "\t" + status.ToString();
+            return "\nName: " + "\t" + name + "\nType: " + "\t" + type.ToString() + "\nPrice:" + "\t" + buying_cost + "\nFee:" + "\t" + fee + "\nStatus:" + "\t" + status.ToString();
         }
     }
 }

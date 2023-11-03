@@ -14,16 +14,7 @@ namespace Monopoly
         public bool prison = false; // jail = true = player in jail
         public bool /*get_out_of_jail_card*/ prison_pass = false; // =true = player has jail_pass
         public bool lose = false;
-
-        public Player(string Name, int Position, int Money, bool Jail, bool NoJail, bool Loser)
-        {
-            name = Name;
-            position = Position;
-            money = Money;
-            prison = Jail;
-            prison_pass = NoJail;
-            lose = Loser;
-        }
+        public List<Property> properties = new List<Property>();
 
         public string Name 
         {
@@ -69,7 +60,7 @@ namespace Monopoly
                 prison = value; 
             } 
         }
-        public bool GetOut 
+        public bool Prison_Pass
         { 
             get 
             { 
@@ -90,6 +81,37 @@ namespace Monopoly
             { 
                 lose = value; 
             } 
+        }
+
+        public List<Property> Properties 
+        { 
+            get 
+            {
+                return properties; 
+            } 
+            set 
+            { 
+                properties = value;
+            } 
+        }
+        public Player(string Name, int Position, int Money, bool Prison, bool Prison_Pass, bool Loser, List<Property> Properties)
+        {
+            name = Name;
+            position = Position;
+            money = Money;
+            prison = Prison;
+            prison_pass = Prison_Pass;
+            lose = Loser;
+            this.properties = Properties;
+        }
+
+        public Player(string Name)
+        {
+            this.name = Name;
+        }
+
+        public Player()
+        {
         }
 
         public int Dice()
