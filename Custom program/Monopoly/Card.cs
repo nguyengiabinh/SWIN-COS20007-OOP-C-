@@ -62,21 +62,21 @@ namespace Monopoly
             switch (instruction)
             {
                 case 1:
-                    return "Get out of jail";
+                    return "God bail you out of jail";
                 case 2:
-                    return "Pay $" + random_cash + " to the player who played before you";
+                    return "Give $" + random_cash + " to the one that played before you";
                 case 3:
-                    return "Pay $" + random_cash + " for taxes";
+                    return "God decides to take $" + random_cash + "from you";
                 case 4:
-                    return "Receive $" + random_cash + " from the bank";
+                    return "God feel pity and give you $" + random_cash;
                 case 5:
                     return "Move " + random_int + " squares forward";
                 case 6:
                     return "Move " + random_int + " squares backward";
                 case 7:
-                    return "Go to jail";
+                    return "You committed tax fraud for no reason so you go to prison";
                 default:
-                    return "There was an error please try again";
+                    return "Something wrong!!!";
             }
         }
 

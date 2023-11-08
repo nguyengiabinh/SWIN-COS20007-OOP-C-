@@ -9,10 +9,10 @@ namespace Monopoly
     public class Property : Square
     {
         public enum property_Type { Mansion, Service, Special}
-        public enum Property_Status { Sale, Bought, Rent, NoNo }
+        public enum Property_Status { Sale, Bought, Land, Rent }
 
         public string name;
-        public int buying_cost; 
+        public int market_price; 
         public int fee; // pay an amount to the owner of the property
         public property_Type type;
         public Property_Status status;
@@ -30,15 +30,15 @@ namespace Monopoly
             } 
         }
        
-        public int Buying_Cost 
+        public int Market_Price
         { 
             get 
             { 
-                return buying_cost; 
+                return market_price; 
             } 
             set
-            { 
-                buying_cost = value; 
+            {
+                market_price = value; 
             } 
         }
         public int Fee
@@ -86,11 +86,11 @@ namespace Monopoly
             }
         }
 
-        public Property(string Name, property_Type Type, int Buying_cost, int Fee, Property_Status Status, Player Owner, int position) : base(position)
+        public Property(string Name, property_Type Type, int Market_price, int Fee, Property_Status Status, Player Owner, int position) : base(position)
         {
             name = Name;
             type = Type;
-            buying_cost = Buying_cost;
+            market_price = Market_price;
             fee = Fee;
             status = Status;
             owner = Owner;
@@ -103,7 +103,7 @@ namespace Monopoly
 
         public string property_desc()
         {
-            return "\nName: " + "\t" + name + "\nType: " + "\t" + type.ToString() + "\nPrice:" + "\t" + buying_cost + "\nFee:" + "\t" + fee + "\nStatus:" + "\t" + status.ToString();
+            return "\nName: " + "\t" + name + "\nType: " + "\t" + type.ToString() + "\nPrice:" + "\t" + market_price + "\nFee:" + "\t" + fee + "\nStatus:" + "\t" + status.ToString();
         }
     }
 }

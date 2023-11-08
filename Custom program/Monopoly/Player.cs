@@ -10,7 +10,7 @@ namespace Monopoly
     {
         public string name; 
         public int position = 0; 
-        public int money = 2000;  
+        public int money = 1000;  
         public bool prison = false; // jail = true = player in jail
         public bool /*get_out_of_jail_card*/ prison_pass = false; // =true = player has jail_pass
         public bool lose = false;
@@ -120,6 +120,30 @@ namespace Monopoly
             int dice_value = random.Next(1, 6);
             Console.WriteLine("You roll a " + dice_value);
             return dice_value;
+        }
+        public void MoveForward(int number)
+        {
+            if (position + number < 16)
+            {
+                position += number;
+            }
+            else
+            {
+                position = position + number - 16;
+                money += 200;
+            }
+        }
+
+        public void MoveBackward(int number)
+        {
+            if (position - number >= 0)
+            {
+                position -= number;
+            }
+            else
+            {
+                position = 16 + (position - number);
+            }
         }
     }
 }
