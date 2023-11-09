@@ -1,9 +1,12 @@
-﻿using SplashKitSDK;
+﻿using Monopoly;
+using SplashKitSDK;
+using System.Security.Cryptography.X509Certificates;
+
 internal class Program
 {
     private static void Main(string[] args)
     {
-        new Window("Test", 800, 600);
-        SplashKit.Delay(10000);
+        GameLogic newgame = new GameLogic();
+        newgame.Initialize();
     }
 }

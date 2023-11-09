@@ -114,6 +114,22 @@ namespace Monopoly
         {
         }
 
+        public string playerInfo()
+        {
+            int propcount = 0;
+            if (properties != null) 
+            {
+                propcount = properties.Count();
+            }
+            Console.WriteLine("This Square is belong to " + Name);
+            for (int i = 0; i < properties.Count; i++) 
+            {
+                Console.WriteLine(properties[i].ToString());
+            }
+
+            return "\nName: " + "\t" + Name + "\n Current Position: " + "\t" + Position + "\nMoney in account: " + "\t" + Money + "\nProperty(ies): " + "\t" + propcount;
+        }
+
         public int Dice()
         {
             Random random = new Random();
