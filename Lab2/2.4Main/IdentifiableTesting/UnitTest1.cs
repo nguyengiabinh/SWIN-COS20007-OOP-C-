@@ -20,38 +20,38 @@ namespace SwinAdventure
         public void TestAreYou()
         {
 
-            IdentifiableObject id = new IdentifiableObject(new string[] { "fred", "bob" });
-            Assert.IsTrue(id.AreYou("fred"));
+            IdentifiableObject id = new IdentifiableObject(new string[] { "binh", "lam" });
+            Assert.IsTrue(id.AreYou("binh"));
 
         }
 
         [Test()]
         public void TestNotAreYou()
         {
-            IdentifiableObject id = new IdentifiableObject(new string[] { "fred", "bob" });
-            Assert.IsFalse(id.AreYou("wilma"));
+            IdentifiableObject id = new IdentifiableObject(new string[] { "binh", "lam" });
+            Assert.IsFalse(id.AreYou("nguyen"));
         }
 
         [Test()]
         public void TestAreYouCaseSentitive()
         {
-            IdentifiableObject id = new IdentifiableObject(new string[] { "fred", "bob" });
-            Assert.IsTrue(id.AreYou("bOB"));
+            IdentifiableObject id = new IdentifiableObject(new string[] { "binh", "lam" });
+            Assert.IsTrue(id.AreYou("lAM"));
         }
 
         [Test()]
         public void TestFirstID()
         {
-            IdentifiableObject id = new IdentifiableObject(new string[] { "fred", "bob" });
-            Assert.That(id.FirstId, Is.EqualTo("fred"));
+            IdentifiableObject id = new IdentifiableObject(new string[] { "binh", "lam" });
+            Assert.That(id.FirstId, Is.EqualTo("binh"));
         }
 
         [Test()]
         public void TestAddID()
         {
-            IdentifiableObject id = new IdentifiableObject(new string[] { "fred", "bob" });
-            id.AddIdentifier("wilma");
-            Assert.IsTrue(id.AreYou("wilma"));
+            IdentifiableObject id = new IdentifiableObject(new string[] { "binh", "lam" });
+            id.AddIdentifier("manh");
+            Assert.IsTrue(id.AreYou("manh"));
         }
     }
 }
