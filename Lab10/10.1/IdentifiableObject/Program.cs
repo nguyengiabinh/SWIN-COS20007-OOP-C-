@@ -1,5 +1,4 @@
-﻿using IdentifiableObject;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
@@ -84,23 +83,23 @@ namespace SwinAdventure
             Library.AddPath(CentralHallReturn);
             
             //Path from central hall
-            Path WeaponrySouth = new Path(new string[] { "south" }, "South", "South Path", Weaponry);
-            Path ToiletSouthEast = new Path(new string[] { "southeast" }, "South East", "South East Path", Toilet);
-            Path FoodStorageSouthWest = new Path(new string[] { "southwest" }, "South West", "South West Path", FoodStorage);
-            Path BedroomEast = new Path(new string[] { "east" }, "East", "East Path", Bedroom);
-            Path KitchenWest = new Path(new string[] { "west" }, "West", "West Path", Kitchen);
-            Path LivingroomNorthWest = new Path(new string[] { "northwest" }, "North West", "North West Path", LivingRoom);
-            Path PetroomNorthEast = new Path(new string[] { "northeast" }, "North East", "North East Path", Petroom);
-            Path LibraryNorth = new Path(new string[] { "north" }, "North", "North Path", Library);
+            Path WeaponrySouth = new Path(new string[] { "south" }, "", "", Weaponry);
+            Path ToiletEast = new Path(new string[] { "east" }, "", "", Toilet);
+            Path FoodStorageSouthWest = new Path(new string[] { "" }, "", "", FoodStorage);
+            Path BedroomSouthEast = new Path(new string[] { "se" }, "", "", Bedroom);
+            Path KitchenWest = new Path(new string[] { "west" }, "", "", Kitchen);
+            Path LivingroomNorth = new Path(new string[] { "north" }, "", "", LivingRoom);
+            Path PetroomNorthEast = new Path(new string[] { "ne" }, "", "", Petroom);
+            Path LibraryNorthWest = new Path(new string[] { "nw" }, "", "", Library);
 
             CentralHall.AddPath(WeaponrySouth);
-            CentralHall.AddPath(ToiletSouthEast);
+            CentralHall.AddPath(BedroomSouthEast);
             CentralHall.AddPath(FoodStorageSouthWest);
-            CentralHall.AddPath(BedroomEast);
+            CentralHall.AddPath(ToiletEast);
             CentralHall.AddPath(KitchenWest);
-            CentralHall.AddPath(LivingroomNorthWest);
+            CentralHall.AddPath(LivingroomNorth);
             CentralHall.AddPath(PetroomNorthEast);
-            CentralHall.AddPath(LibraryNorth);
+            CentralHall.AddPath(LibraryNorthWest);
             
             //starting items and location
             p.Inventory.Put(gaunlet);

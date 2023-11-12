@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace IdentifiableObject
+namespace SwinAdventure
 {
     public class CommandProcessor : Command
     {
