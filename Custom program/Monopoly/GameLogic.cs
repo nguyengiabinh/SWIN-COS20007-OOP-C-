@@ -12,6 +12,7 @@ namespace Monopoly
         public List<Player> player = new List<Player>();
         Board board = new Board();
         int turns;
+        public Player winner;
 
         public void Initialize()
         {
@@ -40,27 +41,32 @@ namespace Monopoly
 
         public bool Win()
         {
-            int compt2 = 0;
+            int win_cond = 0;
             Player playerwin = new Player();
             for (int i = 0; i < player.Count; i++)
             {
                 if (player[i].money != 0) 
                 { 
                     playerwin = player[i]; 
-                    compt2++; 
+                    win_cond = win_cond + 1; 
                 }
             }
-            if (compt2 == 1) 
+            if (win_cond == 1) 
             { 
                 winner = playerwin; 
                 return true; 
             }
-            int j = 0;
-            foreach (Player p in players)
+
+            int lose_cond = 0;
+            foreach (Player p in player)
             {
-                if (p.loser == false) { winner = p; j++; }
+                if (p.lose == false) 
+                { 
+                    winner = p;
+                    lose_cond = lose_cond + 1; 
+                }
             }
-            if (j == 1) 
+            if (lose_cond == 1) 
             { 
                 return true;
             }
@@ -68,6 +74,114 @@ namespace Monopoly
             { 
                 return false; 
             }
+        }
+        
+        public void Game_Main()
+        {
+            int playerID = 0;
+            Console.Clear();
+            while (!Win())
+            {
+                turns = turns + 1;
+                while (player[playerID].lose)
+                {
+                    if (playerID == player.Count - 1)
+                    {
+                        playerID = 0;
+                    }
+                    else
+                    {
+                        playerID = playerID + 1;
+                    }
+                }
+
+                Player now = player[playerID];
+                Console.WriteLine("\nPlayer " + now.Name);
+                Console.WriteLine("\nPress any key on your keyboard to roll the dice");
+                Console.ReadKey(true);
+
+                int dice = now.Dice();
+                now.MoveForward(dice);
+                Console.WriteLine("\nYou are now on " + now.position);
+
+                Console.WriteLine("\nPress any key to continue !");
+                Console.ReadKey(true);
+                Game_choice(now, playerID, true);
+
+                if (playerID == player.Count - 1)
+                {
+                    playerID = 0;
+                }
+                else
+                {
+                    playerID = playerID + 1;
+                }
+            }
+            Console.WriteLine("The winner is: " + winner.Name);
+            Console.ReadKey(true);
+        }
+
+        public void Game_choice(Player currentplayer, int playerID, bool position)
+        {
+            Console.Clear();
+
+            int command = 0;
+            Console.WriteLine("\nWhat are you going to do :");
+            Console.WriteLine("0: \tView Game Status");
+            Console.WriteLine("1: \tView my Profile");
+            Console.WriteLine("2: \tPurchase the land");
+            Console.WriteLine("3: \tBuild mansion on the land");
+            Console.WriteLine("4: \tBuild Hotel/Resort on the land");
+            Console.WriteLine("5: \tEnd my turn");
+            Console.WriteLine("6: \tSurrender");
+            Console.WriteLine("7: \tExit game");
+
+            try
+            {
+                command = int.Parse(Console.ReadLine());
+            }
+            catch (FormatException error)
+            {
+                Console.WriteLine("Invalid command:" + error.Message);
+                this.Game_choice(currentplayer, playerID, true);
+            }
+
+            switch(command) 
+            { 
+                case 0:
+                    for (int i = 0; i < player.Count; i++)
+                    {
+                        Console.WriteLine("\n" + player[i].playerInfo());
+                    }
+                    Console.ReadKey();
+                    Console.Clear();
+                    Game_choice(currentplayer, playerID, position);
+                    break;
+                case 1:
+                    PlayerProfile(currentplayer, playerID);
+                    break;
+                //case 5:
+                //    break;
+            }
+
+        }
+
+        public void PlayerProfile(Player currentplayer, int playerID)
+        {
+            Console.Clear();
+            Console.WriteLine("Current position: " + currentplayer.position);
+            Console.WriteLine("In bank account: $" + currentplayer.money);
+            Console.WriteLine("You have " + currentplayer.properties.Count() + " properties under your name:\n");
+            if (currentplayer.properties.Count() != 0)
+            {
+                foreach (Property p in currentplayer.properties)
+                {
+                    Console.WriteLine(p.property_desc());
+                }
+            }
+            Console.WriteLine("\nPress any key to go back to the menu.");
+            Console.ReadKey(true);
+            Game_choice(currentplayer, playerID, false);
         }
     }
 }

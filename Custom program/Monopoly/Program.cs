@@ -8,5 +8,7 @@ internal class Program
     {
         GameLogic newgame = new GameLogic();
         newgame.Initialize();
+        newgame.Game_Main();
+        Console.ReadKey();
     }
 }
