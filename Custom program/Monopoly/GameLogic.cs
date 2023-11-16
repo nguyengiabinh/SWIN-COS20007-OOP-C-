@@ -219,7 +219,7 @@ namespace Monopoly
                 {
                     int confirmation;
                     Console.WriteLine("This is the how much you have left: " + currentplayer.money);
-                    Console.WriteLine("Purchase confirmation" + "\nYES" + "\nNO");
+                    Console.WriteLine("Purchase confirmation: " + "\n1 : YES" + "\n2 : NO");
                     confirmation = int.Parse(Console.ReadLine());
 
                     switch (confirmation)
@@ -227,10 +227,30 @@ namespace Monopoly
                         case 1:
                             Console.Clear();
                             prop = new BoughtStatus(prop, currentplayer);
-
+                            BoughtStatus bought = (BoughtStatus)prop;
+                            currentplayer.properties.Add(bought);
+                            currentplayer.money = currentplayer.money - prop.market_price;
+                            Console.WriteLine("You are now the proud owner of " + prop.Name + "\n");
+                            Console.WriteLine(bought.Owner());
+                            Console.ReadKey(true);
+                            Game_choice(currentplayer, playerID, true);
+                            break;
+                        case 2:
+                            Game_choice(currentplayer, playerID, true);
+                            break;
+                        default:
+                            Console.WriteLine("\nInvalid Command -> returning to command list");
+                            Game_choice(currentplayer, playerID, true);
+                            break;
                     }
 
                 }
+            }
+            else
+            {
+                Console.WriteLine("This is goverment property, you are not allow to meddle with this square!");
+                Console.ReadKey(true);
+                Game_choice(currentplayer, playerID, true);
             }
         }
         
