@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using static Monopoly.Property;
 
 namespace Monopoly
 {
@@ -45,37 +46,37 @@ namespace Monopoly
             Player playerwin = new Player();
             for (int i = 0; i < player.Count; i++)
             {
-                if (player[i].money != 0) 
-                { 
-                    playerwin = player[i]; 
-                    win_cond = win_cond + 1; 
+                if (player[i].money != 0)
+                {
+                    playerwin = player[i];
+                    win_cond = win_cond + 1;
                 }
             }
-            if (win_cond == 1) 
-            { 
-                winner = playerwin; 
-                return true; 
+            if (win_cond == 1)
+            {
+                winner = playerwin;
+                return true;
             }
 
             int lose_cond = 0;
             foreach (Player p in player)
             {
-                if (p.lose == false) 
-                { 
+                if (p.lose == false)
+                {
                     winner = p;
-                    lose_cond = lose_cond + 1; 
+                    lose_cond = lose_cond + 1;
                 }
             }
-            if (lose_cond == 1) 
-            { 
+            if (lose_cond == 1)
+            {
                 return true;
             }
-            else 
-            { 
-                return false; 
+            else
+            {
+                return false;
             }
         }
-        
+
         public void Game_Main()
         {
             int playerID = 0;
@@ -146,8 +147,8 @@ namespace Monopoly
                 this.Game_choice(currentplayer, playerID, true);
             }
 
-            switch(command) 
-            { 
+            switch (command)
+            {
                 case 0:
                     for (int i = 0; i < player.Count; i++)
                     {
@@ -160,8 +161,12 @@ namespace Monopoly
                 case 1:
                     PlayerProfile(currentplayer, playerID);
                     break;
-                //case 5:
-                //    break;
+                case 2:
+                    BuySquare(currentplayer, playerID);
+                    break;
+
+                    //case 5:
+                    //    break;
             }
 
         }
@@ -171,7 +176,7 @@ namespace Monopoly
             Console.Clear();
             Console.WriteLine("Current position: " + currentplayer.position);
             Console.WriteLine("In bank account: $" + currentplayer.money);
-            Console.WriteLine("You have " + currentplayer.properties.Count() + " properties under your name:\n");
+            Console.WriteLine("You have " + currentplayer.properties.Count() + " propertie/s under your name:\n");
             if (currentplayer.properties.Count() != 0)
             {
                 foreach (Property p in currentplayer.properties)
@@ -179,9 +184,55 @@ namespace Monopoly
                     Console.WriteLine(p.property_desc());
                 }
             }
-            Console.WriteLine("\nPress any key to go back to the menu.");
+            Console.WriteLine("\nPress something to go back.");
             Console.ReadKey(true);
             Game_choice(currentplayer, playerID, false);
         }
+
+        public void BuySquare(Player currentplayer, int playerID)
+        {
+            Property prop = new Property("", property_Type.Special, 0, 0, Property_Status.Sale, null, 0);
+            BoughtStatus bought_status = new BoughtStatus(prop, null);
+            LandStatus land_status = new LandStatus(bought_status, null);
+            RentStatus rent_status = new RentStatus(land_status, null);
+            if (board.square[currentplayer.position].GetType() == bought_status.GetType() || board.square[currentplayer.position].GetType() == land_status.GetType() || board.square[currentplayer.position].GetType() == rent_status.GetType())
+            {
+                Console.WriteLine("This property is already belong to someone else.");
+                Console.ReadKey(true);
+                Game_choice(currentplayer, playerID, false);
+            }
+            else if (board.square[currentplayer.position].GetType() == prop.GetType()) 
+            {
+                Console.Clear();
+                Console.WriteLine("This is the information of the square u want to buy: ");
+                prop = (Property)board.square[currentplayer.position];
+                Console.WriteLine(prop.property_desc());
+
+                if (prop.market_price > currentplayer.money)
+                {
+                    Console.WriteLine("you cant afford this property due to the fact that you are fcking broke BOI!!!");
+                    Console.WriteLine("This is the how much you have left: " + currentplayer.money);
+                    Console.ReadKey(true);
+                    Game_choice(currentplayer, playerID, true);
+                }
+                else
+                {
+                    int confirmation;
+                    Console.WriteLine("This is the how much you have left: " + currentplayer.money);
+                    Console.WriteLine("Purchase confirmation" + "\nYES" + "\nNO");
+                    confirmation = int.Parse(Console.ReadLine());
+
+                    switch (confirmation)
+                    {
+                        case 1:
+                            Console.Clear();
+                            prop = new BoughtStatus(prop, currentplayer);
+
+                    }
+
+                }
+            }
+        }
+        
     }
 }

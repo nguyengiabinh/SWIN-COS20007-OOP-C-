@@ -8,9 +8,9 @@ namespace Monopoly
 {
     public class RentStatus : LandStatus
     {
-        public RentStatus(LandStatus prop, Player play) : base(prop,play)
+        public RentStatus(LandStatus property, Player player) : base(property,player)
         {
-            this.fee = prop.fee / 2;
+            this.fee = property.fee / 2;
             this.status = Property_Status.Rent;
         }
     }

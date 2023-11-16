@@ -8,13 +8,13 @@ namespace Monopoly
 {
     public abstract class PropertyState : Property
     {
-        public PropertyState(Property prop, Player play)
+        public PropertyState(Property property, Player player)
         {
-            this.name = prop.name;
-            this.market_price = prop.market_price;
-            this.type = prop.type;
-            this.owner = play;
-            this.position = prop.position;
+            this.name = property.name;
+            this.market_price = property.market_price;
+            this.type = property.type;
+            this.owner = player;
+            this.position = property.position;
         }
 
         public string Owner()

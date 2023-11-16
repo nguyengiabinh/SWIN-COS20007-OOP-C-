@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Custom program\\Monopoly\\Monopoly.csproj",
+      "projectUniqueName": "D:\\SWIN-COS20007-OOP-C#\\Custom program\\Monopoly\\Monopoly.csproj",
       "projectName": "Monopoly",
-      "projectPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Custom program\\Monopoly\\Monopoly.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\SWINBURNE\\SWIN COS20007 OOP C#\\SWIN-COS20007-OOP-C-\\Custom program\\Monopoly\\obj\\",
+      "projectPath": "D:\\SWIN-COS20007-OOP-C#\\Custom program\\Monopoly\\Monopoly.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\SWIN-COS20007-OOP-C#\\Custom program\\Monopoly\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
