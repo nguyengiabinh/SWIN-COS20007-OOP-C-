@@ -164,7 +164,12 @@ namespace Monopoly
                 case 2:
                     BuySquare(currentplayer, playerID);
                     break;
-
+                case 3:
+                    UpgradeInLandDirection(currentplayer, playerID);
+                    break;
+                case 4:
+                    UpgradeInRentDirection(currentplayer, playerID);
+                    break;
                     //case 5:
                     //    break;
             }
@@ -253,6 +258,199 @@ namespace Monopoly
                 Game_choice(currentplayer, playerID, true);
             }
         }
-        
+
+        public void UpgradeInLandDirection(Player currentplayer, int playerID)
+        {
+            if (currentplayer.properties.Count() == 0)
+            {
+                Console.WriteLine("You possess 0 property");
+                Console.ReadKey(true);
+                Game_choice(currentplayer, playerID, false);
+            }
+            else
+            {
+                int numbering = 0;
+                Console.WriteLine("Which square to you want to upgrade in the Land direction");
+                foreach (Property prop in currentplayer.properties)
+                {
+                    Console.WriteLine(numbering + 1 + ": " + "\n" + prop.property_desc());
+                    numbering = numbering + 1;
+                }
+                numbering = int.Parse(Console.ReadLine()) - 1;
+                BoughtStatus bought_status = new BoughtStatus(currentplayer.properties[numbering], currentplayer);
+                while (currentplayer.properties[numbering].GetType() != bought_status.GetType())
+                {
+                    Console.WriteLine("The land in this square is already upgraded");
+                    Console.WriteLine("1: Choose a different square" + "\n2: Go back to command list");
+                    int command = int.Parse(Console.ReadLine());
+                    if (command == 1)
+                    {
+                        Console.WriteLine("Which square to you want to upgrade in the Land direction");
+                        foreach (Property prop in currentplayer.properties)
+                        {
+                            Console.WriteLine(numbering + 1 + ": " + "\n" + prop.property_desc());
+                            numbering = numbering + 1;
+                        }
+                        numbering = int.Parse(Console.ReadLine()) - 1;
+                    }
+                    else if (command == 2)
+                    {
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid input: allow input are 1 and 2");
+                        Console.ReadKey(true);
+                        Console.Clear();
+                        UpgradeInLandDirection(currentplayer, playerID);
+                    }
+                }
+                bought_status = (BoughtStatus)currentplayer.properties[numbering];
+                int land_price = bought_status.market_price + 100;
+                Console.WriteLine("Upgrading this land would cost" + land_price);
+                if (currentplayer.money < land_price)
+                {
+                    Console.WriteLine("What made you think you can afford this upgrade huh?");
+                    Console.WriteLine("This is how much you have left: " + currentplayer.money);
+                    Console.ReadKey(true);
+                    Game_choice(currentplayer, playerID, false);
+                }
+                else
+                {
+                    Console.WriteLine("Upgrade confirmation");
+                    Console.WriteLine("1: YES" + "\n2: No");
+                    int command = int.Parse(Console.ReadLine());
+                    if (command == 1)
+                    {
+                        Console.Clear();
+                        bought_status = new LandStatus(bought_status, currentplayer);
+                        LandStatus land_status = (LandStatus)bought_status;
+                        board.square[currentplayer.position] = land_status;
+                        int upgrade_finalizing = 0;
+                        foreach (Property prop in currentplayer.properties)
+                        {
+                            if  (prop.name != land_status.name)
+                            {
+                                upgrade_finalizing = upgrade_finalizing + 1;
+                            }
+                        }
+                        currentplayer.properties[upgrade_finalizing] = land_status;
+                        Console.WriteLine(land_status.Owner());
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else if (command == 2)
+                    {
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid input: allow input are 1 and 2");
+                        Console.ReadKey(true);
+                        Console.Clear();
+                        UpgradeInLandDirection(currentplayer, playerID);
+                    }
+
+                }
+            }
+        }
+
+        public void UpgradeInRentDirection(Player currentplayer, int playerID)
+        {
+            if (currentplayer.properties.Count() == 0)
+            {
+                Console.WriteLine("You possess 0 property");
+                Console.ReadKey(true);
+                Game_choice(currentplayer, playerID, false);
+            }
+            else
+            {
+                int numbering = 0;
+                Console.WriteLine("Which square to you want to upgrade in the Rent(Hotel/Resort) direction");
+                foreach (Property prop in currentplayer.properties)
+                {
+                    Console.WriteLine(numbering + 1 + ": " + "\n" + prop.property_desc());
+                    numbering = numbering + 1;
+                }
+                numbering = int.Parse(Console.ReadLine()) - 1;
+                BoughtStatus bought_status = new BoughtStatus(currentplayer.properties[numbering], currentplayer);
+                LandStatus land_status = new LandStatus(bought_status, currentplayer);
+                while (currentplayer.properties[numbering].GetType() != land_status.GetType())
+                {
+                    Console.WriteLine("This square is already upgraded to Rent or The land in this square is not yet been upgraded");
+                    Console.WriteLine("1: Choose a different square" + "\n2: Go back to command list");
+                    int command = int.Parse(Console.ReadLine());
+                    if (command == 1)
+                    {
+                        Console.WriteLine("Which square to you want to upgrade in the Land direction");
+                        foreach (Property prop in currentplayer.properties)
+                        {
+                            Console.WriteLine(numbering + 1 + ": " + "\n" + prop.property_desc());
+                            numbering = numbering + 1;
+                        }
+                        numbering = int.Parse(Console.ReadLine()) - 1;
+                    }
+                    else if (command == 2)
+                    {
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid input: allow input are 1 and 2");
+                        Console.ReadKey(true);
+                        Console.Clear();
+                        UpgradeInLandDirection(currentplayer, playerID);
+                    }
+                }
+                land_status = (LandStatus)currentplayer.properties[numbering];
+                int rent_price = land_status.market_price + 500;
+                Console.WriteLine("Upgrading this land to a Rent state would cost" + rent_price);
+                if (currentplayer.money < rent_price)
+                {
+                    Console.WriteLine("What made you think you can afford this upgrade huh?");
+                    Console.WriteLine("This is how much you have left: " + currentplayer.money);
+                    Console.ReadKey(true);
+                    Game_choice(currentplayer, playerID, false);
+                }
+                else
+                {
+                    Console.WriteLine("Upgrade confirmation");
+                    Console.WriteLine("1: YES" + "\n2: No");
+                    int command = int.Parse(Console.ReadLine());
+                    if (command == 1)
+                    {
+                        Console.Clear();
+                        land_status = new RentStatus(land_status, currentplayer);
+                        RentStatus rent_status = (RentStatus)land_status;
+                        board.square[currentplayer.position] = rent_status;
+                        int upgrade_finalizing = 0;
+                        foreach (Property prop in currentplayer.properties)
+                        {
+                            if (prop.name != rent_status.name)
+                            {
+                                upgrade_finalizing = upgrade_finalizing + 1;
+                            }
+                        }
+                        currentplayer.properties[upgrade_finalizing] = rent_status;
+                        Console.WriteLine(rent_status.Owner());
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else if (command == 2)
+                    {
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid input: allow input are 1 and 2");
+                        Console.ReadKey(true);
+                        Console.Clear();
+                        UpgradeInRentDirection(currentplayer, playerID);
+                    }
+
+                }
+            }
+        }
+
     }
 }

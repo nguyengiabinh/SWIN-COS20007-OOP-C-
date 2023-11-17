@@ -10,7 +10,7 @@ namespace Monopoly
     {
         public LandStatus(BoughtStatus property, Player player) : base(property,player)
         {
-            this.fee = property.fee * 4;
+            this.fee = property.fee + 200;
             this.status = Property_Status.Land;
         }
     }
