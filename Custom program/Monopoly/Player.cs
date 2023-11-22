@@ -12,7 +12,7 @@ namespace Monopoly
         public int position = 0; 
         public int money = 1000;  
         public bool prison = false; // jail = true = player in jail
-        public bool /*get_out_of_jail_card*/ prison_pass = false; // =true = player has jail_pass
+        public bool prison_pass = false; // =true = player has jail_pass
         public bool lose = false;
         public List<Property> properties = new List<Property>();
 
@@ -121,13 +121,12 @@ namespace Monopoly
             {
                 propcount = properties.Count();
             }
-            Console.WriteLine("This Square is belong to " + Name);
             for (int i = 0; i < properties.Count; i++) 
             {
                 Console.WriteLine(properties[i].ToString());
             }
 
-            return "\nName: " + "\t" + Name + "\n Current Position: " + "\t" + Position + "\nMoney in account: " + "\t" + Money + "\nProperty(ies): " + "\t" + propcount;
+            return "\nName: " + "\t" + Name + "\nCurrent Position: " + "\t" + Position + "\nMoney in account: " + "\t" + Money + "\nProperty(ies): " + "\t" + propcount;
         }
 
         public int Dice()

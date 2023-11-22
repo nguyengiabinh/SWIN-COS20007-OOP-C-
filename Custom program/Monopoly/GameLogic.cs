@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using static Monopoly.Card;
 using static Monopoly.Property;
 
 namespace Monopoly
@@ -34,7 +35,7 @@ namespace Monopoly
             Console.WriteLine("\nPlayers:");
             for (int i = 0; i < playerinit; i++)
             {
-                Console.WriteLine("\n" + player[i].playerInfo());
+                Console.WriteLine(player[i].playerInfo());
             }
             Console.WriteLine("Press any key on your keyboard to continue!!!");
             Console.ReadKey(true);
@@ -98,7 +99,7 @@ namespace Monopoly
 
                 Player now = player[playerID];
                 Console.WriteLine("\nPlayer " + now.Name);
-                Console.WriteLine("\nPress any key on your keyboard to roll the dice");
+                Console.WriteLine("\nPress any key to roll the dice");
                 Console.ReadKey(true);
 
                 int dice = now.Dice();
@@ -125,7 +126,10 @@ namespace Monopoly
         public void Game_choice(Player currentplayer, int playerID, bool position)
         {
             Console.Clear();
-
+            if (position)
+            {
+                CurrentPosition(currentplayer, playerID);
+            }
             int command = 0;
             Console.WriteLine("\nWhat are you going to do :");
             Console.WriteLine("0: \tView Game Status");
@@ -170,8 +174,15 @@ namespace Monopoly
                 case 4:
                     UpgradeInRentDirection(currentplayer, playerID);
                     break;
-                    //case 5:
-                    //    break;
+                case 5:
+                    break;
+                case 6:
+                    currentplayer.lose = true;
+                    break;
+                case 7:
+                    currentplayer.money = 0;
+                    currentplayer.lose = true;
+                    break;
             }
 
         }
@@ -194,6 +205,132 @@ namespace Monopoly
             Game_choice(currentplayer, playerID, false);
         }
 
+        public void CurrentPosition(Player currentplayer, int playerID)
+        {
+            Property prop = new Property("", property_Type.Special, 0, 0, Property_Status.Sale, null, 0);
+            BoughtStatus bought_status = new BoughtStatus(prop, null);
+            LandStatus land_status = new LandStatus(bought_status, null);
+            RentStatus rent_status = new RentStatus(land_status, null);
+            Card card = new Card(card_Type.Chance, 0);
+            Square square = new Square();
+            Console.WriteLine("This is your location: ");
+            if (board.square[currentplayer.position].GetType() == prop.GetType())
+            {
+                prop = (Property)board.square[currentplayer.position];
+                Console.WriteLine(prop.property_desc());
+            }
+            else if (board.square[currentplayer.position].GetType() == bought_status.GetType())
+            {
+                bought_status = (BoughtStatus)board.square[currentplayer.position];
+                Console.WriteLine(bought_status.Owner());
+                if (bought_status.owner != currentplayer)
+                {
+                    Console.WriteLine("Since you are not the owner of this land you must pay the price of " + bought_status.fee);
+                    Console.WriteLine("This land is of " + bought_status.owner.name + "ownership");
+                    if (currentplayer.money < bought_status.fee)
+                    {
+                        Console.WriteLine("You lost due to being broke af");
+                        currentplayer.money = 0;
+                        currentplayer.lose = true;
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        currentplayer.money = currentplayer.money - bought_status.fee;
+                        bought_status.owner.money = bought_status.owner.money + bought_status.fee;
+                        Console.WriteLine("Bank Account: -" + bought_status.fee);
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                }
+            }
+            else if (board.square[currentplayer.position].GetType() == land_status.GetType())
+            {
+                land_status = (LandStatus)board.square[currentplayer.position];
+                Console.WriteLine(land_status.Owner());
+                if (land_status.owner != currentplayer)
+                {
+                    Console.WriteLine("Since you are not the owner of this land and this land had been upgrade you must pay the price of " + land_status.fee);
+                    Console.WriteLine("This land is of " + land_status.owner.name + "ownership");
+                    if (currentplayer.money < land_status.fee)
+                    {
+                        Console.WriteLine("You lost due to being broke af");
+                        currentplayer.money = 0;
+                        currentplayer.lose = true;
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        currentplayer.money = currentplayer.money - land_status.fee;
+                        land_status.owner.money = land_status.owner.money + land_status.fee;
+                        Console.WriteLine("Bank Account: -" + land_status.fee);
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                }
+            }
+            else if (board.square[currentplayer.position].GetType() == land_status.GetType())
+            {
+                rent_status = (RentStatus)board.square[currentplayer.position];
+                Console.WriteLine(rent_status.Owner());
+                if (rent_status.owner != currentplayer)
+                {
+                    Console.WriteLine("Since you are not the owner of this land and this land had been upgrade you must pay the price of " + rent_status.fee);
+                    Console.WriteLine("This land is of " + rent_status.owner.name + "ownership");
+                    if (currentplayer.money < rent_status.fee)
+                    {
+                        Console.WriteLine("You lost due to being broke af");
+                        currentplayer.money = 0;
+                        currentplayer.lose = true;
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                    else
+                    {
+                        currentplayer.money = currentplayer.money - rent_status.fee;
+                        rent_status.owner.money = rent_status.owner.money + rent_status.fee;
+                        Console.WriteLine("Bank Account: -" + land_status.fee);
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, false);
+                    }
+                }
+            }
+            else if (board.square[currentplayer.position].GetType() == card.GetType())
+            {
+                card = (Card)board.square[currentplayer.position];
+                Console.WriteLine("you are on " + card.type.ToString() + " card square");
+                CardPosition(card, currentplayer, playerID);
+            }
+            else if (board.square[currentplayer.position].GetType() == square.GetType())
+            {
+                EmptyPosition(currentplayer, playerID);
+            }
+        }
+
+        public void EmptyPosition(Player currentplayer, int playerID)
+        {
+            if (currentplayer.position == 0)
+            {
+                Console.WriteLine("\nStarting line!");
+            }
+            else if (currentplayer.position == 1)
+            {
+                Console.WriteLine("\nYou got yourself in the prison somehow but only for this turn and your mom is bailing you out");
+            }
+            else if (currentplayer.position == 15)
+            {
+                Console.WriteLine("\nYou are going to prison because you commit an offense to the Sacred Timeline");
+                Console.WriteLine("Consider yourself lucky cuz you didn't get prune");
+                currentplayer.prison = true;
+                currentplayer.position = 1;
+                Console.WriteLine("\nPress anything");
+                Console.ReadKey(true);
+                Game_choice(currentplayer, playerID, false);
+            }
+        }
+
         public void BuySquare(Player currentplayer, int playerID)
         {
             Property prop = new Property("", property_Type.Special, 0, 0, Property_Status.Sale, null, 0);
@@ -202,53 +339,64 @@ namespace Monopoly
             RentStatus rent_status = new RentStatus(land_status, null);
             if (board.square[currentplayer.position].GetType() == bought_status.GetType() || board.square[currentplayer.position].GetType() == land_status.GetType() || board.square[currentplayer.position].GetType() == rent_status.GetType())
             {
-                Console.WriteLine("This property is already belong to someone else.");
+                Console.WriteLine("This property is already belong to someone");
                 Console.ReadKey(true);
                 Game_choice(currentplayer, playerID, false);
             }
-            else if (board.square[currentplayer.position].GetType() == prop.GetType()) 
+            else if (board.square[currentplayer.position].GetType() == prop.GetType())
             {
                 Console.Clear();
-                Console.WriteLine("This is the information of the square u want to buy: ");
-                prop = (Property)board.square[currentplayer.position];
-                Console.WriteLine(prop.property_desc());
-
-                if (prop.market_price > currentplayer.money)
+                if (currentplayer.properties.Contains(prop))
                 {
-                    Console.WriteLine("you cant afford this property due to the fact that you are fcking broke BOI!!!");
-                    Console.WriteLine("This is the how much you have left: " + currentplayer.money);
+                    Console.WriteLine("\nYou already bought this square");
                     Console.ReadKey(true);
-                    Game_choice(currentplayer, playerID, true);
+                    Game_choice(currentplayer, playerID, false);
                 }
                 else
                 {
-                    int confirmation;
-                    Console.WriteLine("This is the how much you have left: " + currentplayer.money);
-                    Console.WriteLine("Purchase confirmation: " + "\n1 : YES" + "\n2 : NO");
-                    confirmation = int.Parse(Console.ReadLine());
 
-                    switch (confirmation)
+                    Console.WriteLine("This is the information of the square u want to buy: ");
+                    prop = (Property)board.square[currentplayer.position];
+                    Console.WriteLine(prop.property_desc());
+
+                    if (prop.market_price > currentplayer.money)
                     {
-                        case 1:
-                            Console.Clear();
-                            prop = new BoughtStatus(prop, currentplayer);
-                            BoughtStatus bought = (BoughtStatus)prop;
-                            currentplayer.properties.Add(bought);
-                            currentplayer.money = currentplayer.money - prop.market_price;
-                            Console.WriteLine("You are now the proud owner of " + prop.Name + "\n");
-                            Console.WriteLine(bought.Owner());
-                            Console.ReadKey(true);
-                            Game_choice(currentplayer, playerID, true);
-                            break;
-                        case 2:
-                            Game_choice(currentplayer, playerID, true);
-                            break;
-                        default:
-                            Console.WriteLine("\nInvalid Command -> returning to command list");
-                            Game_choice(currentplayer, playerID, true);
-                            break;
+                        Console.WriteLine("you cant afford this property due to the fact that you are fcking broke BOI!!!");
+                        Console.WriteLine("This is the how much you have left: " + currentplayer.money);
+                        Console.ReadKey(true);
+                        Game_choice(currentplayer, playerID, true);
                     }
+                    else
+                    {
+                        //if (board.square[currentplayer.position].GetType() == bought_status.GetType())
+                        int confirmation;
+                        Console.WriteLine("This is the how much you have left: " + currentplayer.money);
+                        Console.WriteLine("Purchase confirmation: " + "\n1 : YES" + "\n2 : NO");
+                        confirmation = int.Parse(Console.ReadLine());
 
+                        switch (confirmation)
+                        {
+                            case 1:
+                                Console.Clear();
+                                prop = new BoughtStatus(prop, currentplayer);
+                                BoughtStatus bought = (BoughtStatus)prop;
+                                currentplayer.properties.Add(bought);
+                                currentplayer.money = currentplayer.money - prop.market_price;
+                                Console.WriteLine("You are now the proud owner of " + prop.Name + "\n");
+                                Console.WriteLine(bought.Owner());
+                                Console.ReadKey(true);
+                                Game_choice(currentplayer, playerID, true);
+                                break;
+                            case 2:
+                                Game_choice(currentplayer, playerID, true);
+                                break;
+                            default:
+                                Console.WriteLine("\nInvalid Command -> returning to command list");
+                                Game_choice(currentplayer, playerID, true);
+                                break;
+                        }
+
+                    }
                 }
             }
             else
@@ -307,7 +455,8 @@ namespace Monopoly
                 }
                 bought_status = (BoughtStatus)currentplayer.properties[numbering];
                 int land_price = bought_status.market_price + 100;
-                Console.WriteLine("Upgrading this land would cost" + land_price);
+                Console.WriteLine("Upgrading this land would cost " +
+                    "" + land_price);
                 if (currentplayer.money < land_price)
                 {
                     Console.WriteLine("What made you think you can afford this upgrade huh?");
@@ -335,6 +484,7 @@ namespace Monopoly
                             }
                         }
                         currentplayer.properties[upgrade_finalizing] = land_status;
+                        currentplayer.money = currentplayer.money - land_price;
                         Console.WriteLine(land_status.Owner());
                         Console.ReadKey(true);
                         Game_choice(currentplayer, playerID, false);
@@ -404,7 +554,7 @@ namespace Monopoly
                 }
                 land_status = (LandStatus)currentplayer.properties[numbering];
                 int rent_price = land_status.market_price + 500;
-                Console.WriteLine("Upgrading this land to a Rent state would cost" + rent_price);
+                Console.WriteLine("Upgrading this land to a Rent state would cost " + rent_price);
                 if (currentplayer.money < rent_price)
                 {
                     Console.WriteLine("What made you think you can afford this upgrade huh?");
@@ -432,6 +582,7 @@ namespace Monopoly
                             }
                         }
                         currentplayer.properties[upgrade_finalizing] = rent_status;
+                        currentplayer.money = currentplayer.money - rent_price;
                         Console.WriteLine(rent_status.Owner());
                         Console.ReadKey(true);
                         Game_choice(currentplayer, playerID, false);
@@ -450,6 +601,84 @@ namespace Monopoly
 
                 }
             }
+        }
+
+        public void CardPosition(Card card, Player currentplayer, int playerID)
+        {
+            Console.WriteLine("Card description: ");
+            int random_cash = card.Random_Cash();
+            int random_int = card.Random_Num();
+            Console.WriteLine(card.Card_Description(card.instruction, random_cash, random_int));
+            if (card.instruction == 1)
+            {
+                if (currentplayer.prison)
+                {
+                    Console.WriteLine("Welp its look like you are free to go");
+                    currentplayer.prison = false;
+                }
+                else
+                {
+                    Console.WriteLine("keep this for the next time you got in prison");
+                    currentplayer.prison_pass = true;
+                }
+            }
+            else if (card.instruction == 2)
+            {
+                if (turns < 2)
+                {
+                    Console.WriteLine("Blud got lucky huh");
+                }
+                else
+                {
+                    if (currentplayer.money < random_cash)
+                    {
+                        Console.WriteLine("You lost due to being broke af");
+                        currentplayer.lose = true;
+                    }
+                    else
+                    {
+                        player[playerID - 1].money = player[playerID - 1].money + random_cash;
+                        currentplayer.money = currentplayer.money - random_cash;
+                        Console.WriteLine("Since you have to give " + random_cash + "to" + player[playerID - 1]);
+                        Console.WriteLine("Bank account: -" + random_cash);
+                    }
+                }
+            }
+            else if (card.instruction == 3)
+            {
+                if (currentplayer.money < random_cash)
+                {
+                    Console.WriteLine("You lost due to being broke af");
+                    currentplayer.lose = true;
+                }
+                else
+                {
+                    currentplayer.money = currentplayer.money - random_cash;
+                    Console.WriteLine("Bank account: -" + random_cash);
+                }
+            }
+            else if (card.instruction == 4)
+            {
+                currentplayer.money = currentplayer.money + random_cash;
+                Console.WriteLine("Bank account: +" + random_cash);
+            }
+            else if (card.instruction == 5)
+            {
+                currentplayer.MoveForward(random_int);
+                Console.WriteLine("Your are noew at: " + currentplayer.position);
+            }
+            else if (card.instruction == 6)
+            {
+                currentplayer.MoveBackward(random_int);
+                Console.WriteLine("Your are now at: " + currentplayer.position);
+            }
+            else if (card.instruction == 7)
+            {
+                currentplayer.position = 1;
+                currentplayer.prison = true;
+            }
+            Console.WriteLine("\nPress anything");
+            Console.ReadKey(true);
         }
 
     }
