@@ -12,7 +12,7 @@ namespace Monopoly
     public class GameLogic
     {
         public List<Player> player = new List<Player>();
-        Board board = new Board();
+        public Board board = new Board();
         int turns;
         public Player winner;
 
@@ -175,6 +175,7 @@ namespace Monopoly
                     UpgradeInRentDirection(currentplayer, playerID);
                     break;
                 case 5:
+                    Console.Clear();
                     break;
                 case 6:
                     currentplayer.lose = true;
@@ -271,7 +272,7 @@ namespace Monopoly
                     }
                 }
             }
-            else if (board.square[currentplayer.position].GetType() == land_status.GetType())
+            else if (board.square[currentplayer.position].GetType() == rent_status.GetType())
             {
                 rent_status = (RentStatus)board.square[currentplayer.position];
                 Console.WriteLine(rent_status.Owner());
@@ -337,24 +338,23 @@ namespace Monopoly
             BoughtStatus bought_status = new BoughtStatus(prop, null);
             LandStatus land_status = new LandStatus(bought_status, null);
             RentStatus rent_status = new RentStatus(land_status, null);
+            //prop = (Property)board.square[currentplayer.position];
             if (board.square[currentplayer.position].GetType() == bought_status.GetType() || board.square[currentplayer.position].GetType() == land_status.GetType() || board.square[currentplayer.position].GetType() == rent_status.GetType())
             {
                 Console.WriteLine("This property is already belong to someone");
                 Console.ReadKey(true);
-                Game_choice(currentplayer, playerID, false);
+                Game_choice(currentplayer, playerID, true);
             }
             else if (board.square[currentplayer.position].GetType() == prop.GetType())
             {
                 Console.Clear();
-                if (currentplayer.properties.Contains(prop))
-                {
-                    Console.WriteLine("\nYou already bought this square");
-                    Console.ReadKey(true);
-                    Game_choice(currentplayer, playerID, false);
-                }
-                else
-                {
-
+                //if (currentplayer.properties.Contains(prop))
+                //{
+                //    Console.WriteLine("\nYou already bought this square");
+                //    Console.ReadKey(true);
+                //    Game_choice(currentplayer, playerID, false);
+                //}
+                
                     Console.WriteLine("This is the information of the square u want to buy: ");
                     prop = (Property)board.square[currentplayer.position];
                     Console.WriteLine(prop.property_desc());
@@ -380,6 +380,7 @@ namespace Monopoly
                                 Console.Clear();
                                 prop = new BoughtStatus(prop, currentplayer);
                                 BoughtStatus bought = (BoughtStatus)prop;
+                                board.square[currentplayer.position] = bought;
                                 currentplayer.properties.Add(bought);
                                 currentplayer.money = currentplayer.money - prop.market_price;
                                 Console.WriteLine("You are now the proud owner of " + prop.Name + "\n");
@@ -397,7 +398,7 @@ namespace Monopoly
                         }
 
                     }
-                }
+                
             }
             else
             {
@@ -515,6 +516,7 @@ namespace Monopoly
             }
             else
             {
+                Console.Clear();
                 int numbering = 0;
                 Console.WriteLine("Which square to you want to upgrade in the Rent(Hotel/Resort) direction");
                 foreach (Property prop in currentplayer.properties)
@@ -530,27 +532,33 @@ namespace Monopoly
                     Console.WriteLine("This square is already upgraded to Rent or The land in this square is not yet been upgraded");
                     Console.WriteLine("1: Choose a different square" + "\n2: Go back to command list");
                     int command = int.Parse(Console.ReadLine());
-                    if (command == 1)
+                    switch (command)
                     {
-                        Console.WriteLine("Which square to you want to upgrade in the Land direction");
-                        foreach (Property prop in currentplayer.properties)
-                        {
-                            Console.WriteLine(numbering + 1 + ": " + "\n" + prop.property_desc());
-                            numbering = numbering + 1;
-                        }
-                        numbering = int.Parse(Console.ReadLine()) - 1;
+                        case 1:
+                            int numbering2 = 0;
+                            Console.WriteLine("Which square to you want to upgrade in the Land direction");
+                            foreach (Property prop in currentplayer.properties)
+                            {
+                                Console.WriteLine(numbering2 + 1 + ": " + "\n" + prop.property_desc());
+                                numbering2 = numbering2 + 1;
+                            }
+                            numbering2 = int.Parse(Console.ReadLine()) - 1;
+                            break;
+
+                        case 2:
+
+                            Game_choice(currentplayer, playerID, true);
+                            break;
+
+                        default:
+
+                            Console.WriteLine("Invalid input: allow input are 1 and 2");
+                            Console.ReadKey(true);
+                            Console.Clear();
+                            UpgradeInLandDirection(currentplayer, playerID);
+                            break;
                     }
-                    else if (command == 2)
-                    {
-                        Game_choice(currentplayer, playerID, false);
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid input: allow input are 1 and 2");
-                        Console.ReadKey(true);
-                        Console.Clear();
-                        UpgradeInLandDirection(currentplayer, playerID);
-                    }
+                    
                 }
                 land_status = (LandStatus)currentplayer.properties[numbering];
                 int rent_price = land_status.market_price + 500;

@@ -12,3 +12,17 @@ D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Custom program\Monopoly\o
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.pdb
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.genruntimeconfig.cache
 D:\SWINBURNE\SWIN COS20007 OOP C#\SWIN-COS20007-OOP-C-\Custom program\Monopoly\obj\Debug\net7.0\ref\Monopoly.dll
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\bin\Debug\net7.0\Monopoly.exe
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\bin\Debug\net7.0\Monopoly.deps.json
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\bin\Debug\net7.0\Monopoly.runtimeconfig.json
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\bin\Debug\net7.0\Monopoly.dll
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\bin\Debug\net7.0\Monopoly.pdb
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.AssemblyInfoInputs.cache
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.AssemblyInfo.cs
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.csproj.CoreCompileInputs.cache
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.dll
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\refint\Monopoly.dll
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.pdb
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\Monopoly.genruntimeconfig.cache
+D:\SWIN-COS20007-OOP-C#\Custom program\Monopoly\obj\Debug\net7.0\ref\Monopoly.dll
