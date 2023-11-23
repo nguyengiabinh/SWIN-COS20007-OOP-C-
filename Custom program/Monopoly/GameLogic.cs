@@ -203,7 +203,7 @@ namespace Monopoly
             }
             Console.WriteLine("\nPress something to go back.");
             Console.ReadKey(true);
-            Game_choice(currentplayer, playerID, false);
+            Game_choice(currentplayer, playerID, true);
         }
 
         public void CurrentPosition(Player currentplayer, int playerID)
@@ -234,7 +234,7 @@ namespace Monopoly
                         currentplayer.money = 0;
                         currentplayer.lose = true;
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
                     }
                     else
                     {
@@ -242,7 +242,7 @@ namespace Monopoly
                         bought_status.owner.money = bought_status.owner.money + bought_status.fee;
                         Console.WriteLine("Bank Account: -" + bought_status.fee);
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
                     }
                 }
             }
@@ -260,7 +260,7 @@ namespace Monopoly
                         currentplayer.money = 0;
                         currentplayer.lose = true;
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
                     }
                     else
                     {
@@ -268,7 +268,7 @@ namespace Monopoly
                         land_status.owner.money = land_status.owner.money + land_status.fee;
                         Console.WriteLine("Bank Account: -" + land_status.fee);
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
                     }
                 }
             }
@@ -286,7 +286,7 @@ namespace Monopoly
                         currentplayer.money = 0;
                         currentplayer.lose = true;
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
                     }
                     else
                     {
@@ -294,7 +294,7 @@ namespace Monopoly
                         rent_status.owner.money = rent_status.owner.money + rent_status.fee;
                         Console.WriteLine("Bank Account: -" + land_status.fee);
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
                     }
                 }
             }
@@ -414,20 +414,26 @@ namespace Monopoly
             {
                 Console.WriteLine("You possess 0 property");
                 Console.ReadKey(true);
-                Game_choice(currentplayer, playerID, false);
+                Game_choice(currentplayer, playerID, true);
             }
             else
             {
                 int numbering = 0;
-                Console.WriteLine("Which square to you want to upgrade in the Land direction");
+                Console.WriteLine("Which square do you want to upgrade in the Land direction");
                 foreach (Property prop in currentplayer.properties)
                 {
                     Console.WriteLine(numbering + 1 + ": " + "\n" + prop.property_desc());
                     numbering = numbering + 1;
                 }
                 numbering = int.Parse(Console.ReadLine()) - 1;
+                if (numbering != numbering)
+                {
+                    Console.WriteLine("Invalid input");
+                    Console.ReadKey(true);
+                    Game_choice(currentplayer, playerID, true);
+                }
                 BoughtStatus bought_status = new BoughtStatus(currentplayer.properties[numbering], currentplayer);
-                while (currentplayer.properties[numbering].GetType() != bought_status.GetType())
+                if (currentplayer.properties[numbering].GetType() != bought_status.GetType())                          //while loop now if not sure if it will bug 
                 {
                     Console.WriteLine("The land in this square is already upgraded");
                     Console.WriteLine("1: Choose a different square" + "\n2: Go back to command list");
@@ -444,7 +450,8 @@ namespace Monopoly
                     }
                     else if (command == 2)
                     {
-                        Game_choice(currentplayer, playerID, false);
+                        Game_choice(currentplayer, playerID, true);
+                        return;
                     }
                     else
                     {
@@ -527,7 +534,7 @@ namespace Monopoly
                 numbering = int.Parse(Console.ReadLine()) - 1;
                 BoughtStatus bought_status = new BoughtStatus(currentplayer.properties[numbering], currentplayer);
                 LandStatus land_status = new LandStatus(bought_status, currentplayer);
-                while (currentplayer.properties[numbering].GetType() != land_status.GetType())
+                if (currentplayer.properties[numbering].GetType() != land_status.GetType())
                 {
                     Console.WriteLine("This square is already upgraded to Rent or The land in this square is not yet been upgraded");
                     Console.WriteLine("1: Choose a different square" + "\n2: Go back to command list");
@@ -548,7 +555,7 @@ namespace Monopoly
                         case 2:
 
                             Game_choice(currentplayer, playerID, true);
-                            break;
+                            return;
 
                         default:
 
