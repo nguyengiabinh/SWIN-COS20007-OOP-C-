@@ -433,7 +433,7 @@ namespace Monopoly
                     Game_choice(currentplayer, playerID, true);
                 }
                 BoughtStatus bought_status = new BoughtStatus(currentplayer.properties[numbering], currentplayer);
-                if (currentplayer.properties[numbering].GetType() != bought_status.GetType())                          //while loop now if not sure if it will bug 
+                if (currentplayer.properties[numbering].GetType() != bought_status.GetType())                          
                 {
                     Console.WriteLine("The land in this square is already upgraded");
                     Console.WriteLine("1: Choose a different square" + "\n2: Go back to command list");
