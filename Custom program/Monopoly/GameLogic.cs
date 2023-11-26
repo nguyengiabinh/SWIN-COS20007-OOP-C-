@@ -676,7 +676,7 @@ namespace Monopoly
                         }
                         else
                         {
-                            player[playerID + 4].money = player[playerID + 4].money + random_cash;
+                            player[playerID + 1].money = player[playerID + 1].money + random_cash;
                             currentplayer.money = currentplayer.money - random_cash;
                             Console.WriteLine("Since you have to give " + random_cash + "to" + player[playerID - 1]);
                             Console.WriteLine("Bank account: -" + random_cash);
