@@ -15,6 +15,7 @@ namespace Monopoly
         public Board board = new Board();
         int turns;
         public Player winner;
+        public bool paid_fee = false;
 
         public void Initialize()
         {
@@ -39,43 +40,6 @@ namespace Monopoly
             }
             Console.WriteLine("Press any key on your keyboard to continue!!!");
             Console.ReadKey(true);
-        }
-
-        public bool Win()
-        {
-            int win_cond = 0;
-            Player playerwin = new Player();
-            for (int i = 0; i < player.Count; i++)
-            {
-                if (player[i].money != 0)
-                {
-                    playerwin = player[i];
-                    win_cond = win_cond + 1;
-                }
-            }
-            if (win_cond == 1)
-            {
-                winner = playerwin;
-                return true;
-            }
-
-            int lose_cond = 0;
-            foreach (Player p in player)
-            {
-                if (p.lose == false)
-                {
-                    winner = p;
-                    lose_cond = lose_cond + 1;
-                }
-            }
-            if (lose_cond == 1)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
         }
 
         public void Game_Main()
@@ -123,6 +87,44 @@ namespace Monopoly
             Console.ReadKey(true);
         }
 
+        public bool Win()
+        {
+            int win_cond = 0;
+            Player playerwin = new Player();
+            for (int i = 0; i < player.Count; i++)
+            {
+                if (player[i].money != 0)
+                {
+                    playerwin = player[i];
+                    win_cond = win_cond + 1;
+                }
+            }
+            if (win_cond == 1)
+            {
+                winner = playerwin;
+                return true;
+            }
+
+            int lose_cond = 0;
+            foreach (Player p in player)
+            {
+                if (p.lose == false)
+                {
+                    winner = p;
+                    lose_cond = lose_cond + 1;
+                }
+            }
+            if (lose_cond == 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
         public void Game_choice(Player currentplayer, int playerID, bool position)
         {
             Console.Clear();
@@ -140,15 +142,21 @@ namespace Monopoly
             Console.WriteLine("5: \tEnd my turn");
             Console.WriteLine("6: \tSurrender");
             Console.WriteLine("7: \tExit game");
-
-            try
+            if (paid_fee == true)
             {
-                command = int.Parse(Console.ReadLine());
+                command = 5;
             }
-            catch (FormatException error)
+            else
             {
-                Console.WriteLine("Invalid command:" + error.Message);
-                this.Game_choice(currentplayer, playerID, true);
+                try
+                {
+                    command = int.Parse(Console.ReadLine());
+                }
+                catch (FormatException error)
+                {
+                    Console.WriteLine("Invalid command:" + error.Message);
+                    this.Game_choice(currentplayer, playerID, true);
+                }
             }
 
             switch (command)
@@ -175,6 +183,7 @@ namespace Monopoly
                     UpgradeInRentDirection(currentplayer, playerID);
                     break;
                 case 5:
+                    paid_fee = false;
                     Console.Clear();
                     break;
                 case 6:
@@ -227,7 +236,8 @@ namespace Monopoly
                 if (bought_status.owner != currentplayer)
                 {
                     Console.WriteLine("Since you are not the owner of this land you must pay the price of " + bought_status.fee);
-                    Console.WriteLine("This land is of " + bought_status.owner.name + "ownership");
+                    Console.WriteLine("This land is of " + bought_status.owner.name + " ownership");
+                    paid_fee = true;
                     if (currentplayer.money < bought_status.fee)
                     {
                         Console.WriteLine("You lost due to being broke af");
@@ -242,7 +252,7 @@ namespace Monopoly
                         bought_status.owner.money = bought_status.owner.money + bought_status.fee;
                         Console.WriteLine("Bank Account: -" + bought_status.fee);
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, true);
+                        Game_choice(currentplayer, playerID, false);
                     }
                 }
             }
@@ -253,7 +263,8 @@ namespace Monopoly
                 if (land_status.owner != currentplayer)
                 {
                     Console.WriteLine("Since you are not the owner of this land and this land had been upgrade you must pay the price of " + land_status.fee);
-                    Console.WriteLine("This land is of " + land_status.owner.name + "ownership");
+                    Console.WriteLine("This land is of " + land_status.owner.name + " ownership");
+                    paid_fee = true;
                     if (currentplayer.money < land_status.fee)
                     {
                         Console.WriteLine("You lost due to being broke af");
@@ -268,7 +279,7 @@ namespace Monopoly
                         land_status.owner.money = land_status.owner.money + land_status.fee;
                         Console.WriteLine("Bank Account: -" + land_status.fee);
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, true);
+                        Game_choice(currentplayer, playerID, false);
                     }
                 }
             }
@@ -279,7 +290,8 @@ namespace Monopoly
                 if (rent_status.owner != currentplayer)
                 {
                     Console.WriteLine("Since you are not the owner of this land and this land had been upgrade you must pay the price of " + rent_status.fee);
-                    Console.WriteLine("This land is of " + rent_status.owner.name + "ownership");
+                    Console.WriteLine("This land is of " + rent_status.owner.name + " ownership");
+                    paid_fee = true;
                     if (currentplayer.money < rent_status.fee)
                     {
                         Console.WriteLine("You lost due to being broke af");
@@ -294,7 +306,7 @@ namespace Monopoly
                         rent_status.owner.money = rent_status.owner.money + rent_status.fee;
                         Console.WriteLine("Bank Account: -" + land_status.fee);
                         Console.ReadKey(true);
-                        Game_choice(currentplayer, playerID, true);
+                        Game_choice(currentplayer, playerID, false);
                     }
                 }
             }
@@ -642,6 +654,8 @@ namespace Monopoly
                 if (turns < 2)
                 {
                     Console.WriteLine("Blud got lucky huh");
+                    paid_fee = true;
+                    Game_choice(currentplayer, playerID, false);
                 }
                 else
                 {
@@ -649,13 +663,25 @@ namespace Monopoly
                     {
                         Console.WriteLine("You lost due to being broke af");
                         currentplayer.lose = true;
+    
                     }
                     else
                     {
-                        player[playerID - 1].money = player[playerID - 1].money + random_cash;
-                        currentplayer.money = currentplayer.money - random_cash;
-                        Console.WriteLine("Since you have to give " + random_cash + "to" + player[playerID - 1]);
-                        Console.WriteLine("Bank account: -" + random_cash);
+                        if (playerID != 0) 
+                        {
+                            player[playerID - 1].money = player[playerID - 1].money + random_cash;
+                            currentplayer.money = currentplayer.money - random_cash;
+                            Console.WriteLine("Since you have to give " + random_cash + "to" + player[playerID - 1]);
+                            Console.WriteLine("Bank account: -" + random_cash);
+                        }
+                        else
+                        {
+                            player[playerID + 4].money = player[playerID + 4].money + random_cash;
+                            currentplayer.money = currentplayer.money - random_cash;
+                            Console.WriteLine("Since you have to give " + random_cash + "to" + player[playerID - 1]);
+                            Console.WriteLine("Bank account: -" + random_cash);
+                        }
+                        
                     }
                 }
             }
@@ -691,9 +717,11 @@ namespace Monopoly
             {
                 currentplayer.position = 1;
                 currentplayer.prison = true;
+                paid_fee = true;
             }
             Console.WriteLine("\nPress anything");
             Console.ReadKey(true);
+            Game_choice(currentplayer, playerID, false);
         }
 
     }

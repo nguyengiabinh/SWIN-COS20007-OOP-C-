@@ -145,7 +145,7 @@ namespace Monopoly
             else
             {
                 position = position + number - 16;
-                money += 200;
+                money += 300;
             }
         }
 
